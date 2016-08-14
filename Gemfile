@@ -14,6 +14,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'rack-cors', require: 'rack/cors'
 gem 'devise_token_auth', '~> 0.1.31'
+gem 'rails_12factor'
 
 group :development, :test do
   gem 'rspec-rails'
